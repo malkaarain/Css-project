@@ -1,0 +1,55 @@
+nav{
+    background-color: rgb(9, 120, 124);
+    box-shadow: 5px 5px 7px 5px black;
+    margin: 0px 100px 100px 100px;
+    border-radius: 5px;
+}
+.one{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    font: 1em sans-serif;
+    font-weight: 300;
+   
+    
+}
+.Home:hover{
+    color: black;
+}
+.About:hover{
+    color: #000;
+}
+.Service:hover{
+    color: #000;
+}
+.Contect:active{
+    color: #000;
+}
+.search:active{
+    color: #000;
+}
+#tr1{
+    margin-left: 20px;
+    margin-top: 15px;
+ }
+.two{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(9, 120, 124);
+    border-radius: 7px;
+    box-shadow: 4px 4px 4px 4px;
+}
+.image1{
+    padding: 50px 50px 50px 50px;
+    height: 100px;
+}
+.para{
+    color: white;
+    font-size: large;
+    font: 1em sans-serif;
+    text-align: center;
+}
+.three{
+    display: flex;
+    justify-content: space-evenly;
+}
